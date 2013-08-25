@@ -1,0 +1,15 @@
+{
+    "name": "iProperty Malaysia",
+    "icons": {
+        "60": "/images/logo-60px.png",
+        "128": "/images/logo-128px.png"
+	},
+    "version": "1.0.0",
+    "description": "iProperty.my - Property for Sale/Rent Malaysia | iProperty.com",
+    "launch_path": "/index.html",
+    "developer": {
+        "name": "Arvind Naidu",
+        "url": "http://evozi.com"
+    },
+    "orientation": ["portrait-primary"]
+}
